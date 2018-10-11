@@ -1,0 +1,22 @@
+
+.container {
+    border: 1px solid black;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    border: 1px solid black;
+}
+
+section {
+    border: 1px solid black;
+}
+
+.column {
+    display: inline-block;
+    vertical-align: top;
+    width: 75%;
+    border: 1px solid black;
+}
