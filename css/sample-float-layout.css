@@ -1,0 +1,19 @@
+
+nav {
+    float: left;
+    width: 150px;
+    border: 1px solid black;
+}
+
+section {
+    margin-left: 200px;
+    border: 1px solid black;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.clearfix {
+    overflow: auto;
+}
